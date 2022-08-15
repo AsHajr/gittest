@@ -34,14 +34,14 @@ POST requests parameters examples:
 	
 `/signup`
 
-
+<p>
 {
 "name": "name",
-	
 "email": "email@email.com",
-	"password": "password",
-	"password_confirmation": "password"
+"password": "password",
+"password_confirmation": "password"
 }
+</p>
 
 </p>
 <p>
