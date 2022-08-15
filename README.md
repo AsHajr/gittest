@@ -34,13 +34,13 @@ POST requests parameters:
 `/signup`
 
 <p>
-`name`
+name
 	<br>
-`email`
+email
 	<br>
-`password`
+password
 	<br>
-`password_confirmation`
+password_confirmation
 
 </p>
 
@@ -49,34 +49,40 @@ POST requests parameters:
 
 `/auth/login`
 
-{
-	"email": "email@email.com",
-	"password": "password"
-	}
+<p>
+email
+		<br>
+password
+	<br>
+	</p>
 
 response:
 
 {
+<br>
 	"auth_token": "eyJhbGciOiJIU...5EgBXw0wvo"
+	<br>
 	}
 </p>
 <p>
 
 `/jobs`
 
-{
-	"title":"title",
-	"description":"description"
-	}
+	<p>
+title
+	<br>
+description
+	<br>
+	</p>
 
 </p>
 <p>
 
 `/jobs/:id/jobapps`
 
-{
-	"created_by": "1"
-	}
+<p>
+	created_by
+	</p>
 
 </p>
 	
@@ -84,8 +90,10 @@ response:
 <p>
 PUT `/jobs/:id` request example (user ccar edit their jobs only):
 
-{
-	"title":"developer"
-	}
+	<p>
+title
+		<br>
+desctiprion
+	</p>
 
 </p>
