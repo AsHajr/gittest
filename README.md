@@ -62,7 +62,6 @@ title
 description
 </p>
 </p>
-<br>
 <p>
 	
 	/jobs/:id/jobapps
@@ -72,7 +71,6 @@ description
 </p>
 </p>
 <p>
-<br>
 PUT request parameters (user can edit their jobs only):
 <br>
 
