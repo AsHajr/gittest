@@ -16,8 +16,11 @@ Endpoints:
 
 
 
-<summary>Examples:</summary>
+<details>Examples:</details>
 
+<br>
+<br>
+<br>
 
 <p>
 Searching for spacific title:
@@ -91,7 +94,9 @@ description
 
 <p>
 <br>
-PUT `/jobs/:id` request parameters (user can edit their jobs only):
+<br>
+<br>
+PUT <p>`/jobs/:id` </p> request parameters (user can edit their jobs only):
 
 <p>
 title
