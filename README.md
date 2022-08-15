@@ -1,24 +1,83 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# README
 
-Things you may want to cover:
+Endpoints: 
 
-* Ruby version
+| Name | Method | description |
+| :---         |     :---:      |          ---: |
+| `/signup`   | POST    | Signup    |
+| `/auth/login`     | POST       | Login      |
+| `/auth/logout`     | GET       | Logout      |
+| `/jobs`     | GET       | List all jobs      |
+| `/jobs`     | POST       | Create a new job      |
+| `/jobs/:id`     | GET       | Get a job      |
+| `/jobs/:id`     | PUT       | Update a job      |
+| `/jobs/:id`     | DELETE       | Delete a job      |
+| `/jobs/:id/jobapps`     | GET       | Get a job apps      |
+| `git diff` | Show file differences that **haven't been** staged |
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+examples:
 
-* Database initialization
+searching for spacific title:
+`http://127.0.0.1:3000/jobs?title=python`
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+POST requests parameters examples:
 
-* Deployment instructions
+`/signup`
 
-* ...
+```json
+{
+	"name": "name",
+	"email": "email@email.com",
+	"password": "password",
+	"password_confirmation": "password"
+}
+```
+
+`/auth/login`
+
+```json
+{
+	"email": "email@email.com",
+	"password": "password"
+}
+```
+response:
+```json
+{
+"auth_token": "eyJhbGciOiJIU...5EgBXw0wvo"
+}
+```
+
+
+`/jobs`
+
+```json
+{
+"title":"title",
+"description":"description"
+}
+```
+
+
+`/jobs/:id/jobapps`
+
+```json
+{
+"created_by": "1"
+}
+```
+
+
+PUT `/jobs/:id` request example (user ccar edit their jobs only):
+
+```json
+{
+"title":"developer"
+}
+```
+
