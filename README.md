@@ -19,18 +19,17 @@ Endpoints:
 <b>Examples:</b>
 
 <br>
-<br>
 
 <p>
-Searching for spacific title:
+	<summary>Searching for spacific title:</summary>
 <p>
 	
 `:3000/jobs?title=python`
 	
 </p>
 </p>
-
-
+<br>
+<br>
 <p>
 POST requests parameters:
 </p>
@@ -50,6 +49,7 @@ password_confirmation
 </p>
 
 </p>
+<br>
 <p>
 
 `/auth/login`
@@ -69,6 +69,7 @@ response:
 <br>
 }
 </p>
+<br>
 <p>
 
 `/jobs`
@@ -81,6 +82,7 @@ description
 </p>
 
 </p>
+<br>
 <p>
 
 `/jobs/:id/jobapps`
@@ -90,7 +92,7 @@ description
 </p>
 </p>
 	
-
+<br>
 <p>
 <br>
 <br>
