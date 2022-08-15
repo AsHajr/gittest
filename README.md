@@ -21,7 +21,9 @@ Examples:
 
 <p>
 Searching for spacific title:
+<p>
 `http://127.0.0.1:3000/jobs?title=python`
+</p>
 </p>
 
 
@@ -34,8 +36,9 @@ POST requests parameters examples:
 
 
 {
-	"name": "name",
-	"email": "email@email.com",
+"name": "name",
+	
+"email": "email@email.com",
 	"password": "password",
 	"password_confirmation": "password"
 }
