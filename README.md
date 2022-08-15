@@ -3,7 +3,7 @@
 <b>API Endpoints: </b>
 
 | Name | Method | description |
-| :---         |     :---:      |        :---   |
+| :---         |     :---:      |        :---:   |
 | `/signup`   | POST    | Signup    |
 | `/auth/login`     | POST       | Login      |
 | `/auth/logout`     | GET       | Logout      |
