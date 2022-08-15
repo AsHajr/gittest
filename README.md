@@ -22,20 +22,14 @@ POST requests parameters:
 </p>
 <p>
 	
-	/signup  name, email, password, password_confirmation
+	/signup : name, email, password, password_confirmation
 
 </p>
 <p>
 
-	/auth/login
+	/auth/login : email, password
 
-<p>
-email
-<br>
-password
-<br>
 </p>
-
 	response:
 
 
@@ -43,34 +37,15 @@ password
 </p>
 <p>
 	
-	/jobs
+	/jobs : title, description
 
-<p>
-title
-<br>
-description
-</p>
 </p>
 <p>
 	
-	/jobs/:id/jobapps
+	/jobs/:id/jobapps : created_by
 	
-<p>
-	created_by
-</p>
 </p>
 <p>
-PUT request parameters (user can edit their jobs only):
-<br>
-
-	/jobs/:id/jobapps
-
-<p>
-title
-<br>
-desctiprion
-</p>
-</p>
 <br>
 <b>Examples:</b>
 
