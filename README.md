@@ -35,7 +35,8 @@ Examples:
 	"password": "password",
 	"password_confirmation": "password"
 }
-```</p>
+```
+</p>
 <p>
 
 `/auth/login`
