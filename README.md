@@ -96,10 +96,11 @@ description
 <p>
 <br>
 <br>
-<br>
 PUT request parameters (user can edit their jobs only):
 <br>
-`/jobs/:id`
+<p>
+	`/jobs/:id`
+</p>
 <p>
 title
 <br>
