@@ -61,7 +61,7 @@ password
 <br>
 </p>
 
-<details>response:</details>
+-response:
 
 {
 <br>
