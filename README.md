@@ -35,11 +35,11 @@ POST requests parameters:
 `/signup`
 
 <p>
-`name`,
+`name`
 <br>
-`email`,
+`email`
 <br>
-`password`,
+`password`
 <br>
 `password_confirmation`
 
