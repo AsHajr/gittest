@@ -1,6 +1,5 @@
 # README
 
-# README
 
 Endpoints: 
 
@@ -15,7 +14,6 @@ Endpoints:
 | `/jobs/:id`     | PUT       | Update a job      |
 | `/jobs/:id`     | DELETE       | Delete a job      |
 | `/jobs/:id/jobapps`     | GET       | Get a job apps      |
-| `git diff` | Show file differences that **haven't been** staged |
 
 
 
