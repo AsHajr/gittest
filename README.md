@@ -28,11 +28,6 @@ POST requests parameters:
 <p>
 
 	/auth/login : email, password
-
-
-	response:
-
-	"auth_token": "eyJhbGciOiJIU...5EgBXw0wvo"
 	
 </p>
 </p>
