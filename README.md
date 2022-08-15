@@ -43,8 +43,6 @@
 <p>
 	<b>Examples:</b>
 </p>
-<br>
-
 <p>
 	<summary>Searching for spacific title:</summary>
 <p>
