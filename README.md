@@ -49,7 +49,6 @@ password_confirmation
 </p>
 
 </p>
-<br>
 <p>
 
 	`/auth/login`
@@ -61,7 +60,7 @@ password
 <br>
 </p>
 
--response:
+	response:
 
 {
 <br>
@@ -71,14 +70,18 @@ password
 </p>
 <br>
 <p>
-
-	`/jobs`
+	
+	`/signup`
 
 <p>
-title
+name
 <br>
-description
+email
 <br>
+password
+<br>
+password_confirmation
+
 </p>
 
 </p>
