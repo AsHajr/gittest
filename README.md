@@ -29,16 +29,17 @@ Searching for spacific title:
 POST requests parameters examples:
 </p>
 <p>
+	
 `/signup`
 
-```json
+
 {
 	"name": "name",
 	"email": "email@email.com",
 	"password": "password",
 	"password_confirmation": "password"
 }
-```
+
 </p>
 <p>
 
@@ -61,31 +62,28 @@ response:
 
 `/jobs`
 
-```json
 {
 "title":"title",
 "description":"description"
 }
-```
+
 </p>
 <p>
 
 `/jobs/:id/jobapps`
 
-```json
 {
 "created_by": "1"
 }
-```
+
 </p>
 	
 
 <p>
 PUT `/jobs/:id` request example (user ccar edit their jobs only):
 
-```json
 {
 "title":"developer"
 }
-```
+
 </p>
