@@ -61,7 +61,7 @@ password
 <br>
 </p>
 
-response:
+<summary>response:</summary>
 
 {
 <br>
@@ -98,7 +98,8 @@ description
 <br>
 <br>
 PUT request parameters (user can edit their jobs only):
-`/jobs/:id` 
+	
+	`/jobs/:id`
 <p>
 title
 <br>
