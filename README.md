@@ -19,12 +19,13 @@ Endpoints:
 
 Examples:
 
-Searching for spacific title:
-`http://127.0.0.1:3000/jobs?title=python`
+<p>Searching for spacific title:
+`http://127.0.0.1:3000/jobs?title=python`</p>
 
 
-POST requests parameters examples:
-
+<p>POST requests parameters examples:
+</p>
+<p>
 `/signup`
 
 ```json
@@ -34,7 +35,8 @@ POST requests parameters examples:
 	"password": "password",
 	"password_confirmation": "password"
 }
-```
+```</p>
+<p>
 
 `/auth/login`
 
@@ -50,7 +52,8 @@ response:
 "auth_token": "eyJhbGciOiJIU...5EgBXw0wvo"
 }
 ```
-
+</p>
+<p>
 
 `/jobs`
 
@@ -60,7 +63,8 @@ response:
 "description":"description"
 }
 ```
-
+</p>
+<p>
 
 `/jobs/:id/jobapps`
 
@@ -69,8 +73,10 @@ response:
 "created_by": "1"
 }
 ```
+	</p>
+	
 
-
+<p>
 PUT `/jobs/:id` request example (user ccar edit their jobs only):
 
 ```json
@@ -78,4 +84,4 @@ PUT `/jobs/:id` request example (user ccar edit their jobs only):
 "title":"developer"
 }
 ```
-
+</p>
