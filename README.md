@@ -40,7 +40,6 @@
 	
 </p>
 <p>
-<br>
 <p>
 	<b>Examples:</b>
 </p>
