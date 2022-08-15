@@ -24,7 +24,7 @@ Endpoints:
 	<summary>Searching for spacific title:</summary>
 <p>
 	
-	`:3000/jobs?title=python`
+	:3000/jobs?title=python
 	
 </p>
 </p>
@@ -35,7 +35,7 @@ POST requests parameters:
 </p>
 <p>
 	
-	`/signup`
+	/signup
 
 <p>
 name
@@ -51,7 +51,7 @@ password_confirmation
 </p>
 <p>
 
-	`/auth/login`
+	/auth/login
 
 <p>
 email
@@ -71,16 +71,13 @@ password
 <br>
 <p>
 	
-	`/signup`
+	/jobs
 
 <p>
-name
+title
 <br>
-email
-<br>
-password
-<br>
-password_confirmation
+description
+
 
 </p>
 
@@ -88,7 +85,7 @@ password_confirmation
 <br>
 <p>
 
-	`/jobs/:id/jobapps`
+	/jobs/:id/jobapps
 
 <p>
 	created_by
@@ -101,7 +98,7 @@ password_confirmation
 PUT request parameters (user can edit their jobs only):
 <br>
 
-	`/jobs/:id/jobapps`
+	/jobs/:id/jobapps
 
 <p>
 title
