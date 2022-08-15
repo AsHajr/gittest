@@ -22,18 +22,7 @@ POST requests parameters:
 </p>
 <p>
 	
-	/signup
-
-<p>
-name
-<br>
-email
-<br>
-password
-<br>
-password_confirmation
-
-</p>
+	/signup  name, email, password, password_confirmation
 
 </p>
 <p>
