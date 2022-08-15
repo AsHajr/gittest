@@ -22,7 +22,7 @@ Examples:
 <p>
 Searching for spacific title:
 <p>
-	`http://127.0.0.1:3000/jobs?title=python`
+`127.0.0.1:3000/jobs?title=python`
 </p>
 </p>
 
@@ -35,10 +35,13 @@ POST requests parameters:
 `/signup`
 
 <p>
-	`name`,
-	`email`,
-	`password`,
-	`password_confirmation`
+`name`,
+<br>
+`email`,
+<br>
+`password`,
+<br>
+`password_confirmation`
 
 </p>
 
