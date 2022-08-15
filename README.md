@@ -22,25 +22,24 @@ Examples:
 <p>
 Searching for spacific title:
 <p>
-`127.0.0.1:3000/jobs?title=python`
+	`http://127.0.0.1:3000/jobs?title=python`
 </p>
 </p>
 
 
 <p>
-POST requests parameters examples:
+POST requests parameters:
 </p>
 <p>
 	
 `/signup`
 
 <p>
-{
-	"name": "name",
-	"email": "email@email.com",
-	"password": "password",
-	"password_confirmation": "password"
-	}
+	`name`,
+	`email`,
+	`password`,
+	`password_confirmation`
+
 </p>
 
 </p>
