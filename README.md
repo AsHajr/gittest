@@ -1,7 +1,7 @@
 # README
 
 <b>API Endpoints: </b>
-<p>
+<div>
 	| Name | Method | description |
 	| :---         |     :---:      |        :---:   |
 	| `/signup`   | POST    | Signup    |
@@ -13,7 +13,7 @@
 	| `/jobs/:id`     | PUT       | Update a job      |
 	| `/jobs/:id`     | DELETE       | Delete a job      |
 	| `/jobs/:id/jobapps`     | GET       | Get a job apps      |
-<p>
+<div>
 <br>
 <p>
 	<b>POST requests parameters:</b>
