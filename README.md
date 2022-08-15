@@ -91,7 +91,7 @@ desctiprion
 	<summary>Searching for spacific title:</summary>
 <p>
 	
-	:3000/jobs?title=python
+	http://127.0.0.1:3000/jobs?title=python
 	
 </p>
 </p>
