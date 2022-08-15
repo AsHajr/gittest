@@ -2,17 +2,17 @@
 
 <b>API Endpoints: </b>
 <div>
-	| Name | Method | description |
-	| :---         |     :---:      |        :---:   |
-	| `/signup`   | POST    | Signup    |
-	| `/auth/login`     | POST       | Login      |
-	| `/auth/logout`     | GET       | Logout      |
-	| `/jobs`     | GET       | List all jobs      |
-	| `/jobs`     | POST       | Create a new job      |
-	| `/jobs/:id`     | GET       | Get a job      |
-	| `/jobs/:id`     | PUT       | Update a job      |
-	| `/jobs/:id`     | DELETE       | Delete a job      |
-	| `/jobs/:id/jobapps`     | GET       | Get a job apps      |
+| Name | Method | description |
+| :---         |     :---:      |        :---:   |
+| `/signup`   | POST    | Signup    |
+| `/auth/login`     | POST       | Login      |
+| `/auth/logout`     | GET       | Logout      |
+| `/jobs`     | GET       | List all jobs      |
+| `/jobs`     | POST       | Create a new job      |
+| `/jobs/:id`     | GET       | Get a job      |
+| `/jobs/:id`     | PUT       | Update a job      |
+| `/jobs/:id`     | DELETE       | Delete a job      |
+| `/jobs/:id/jobapps`     | GET       | Get a job apps      |
 <div>
 <br>
 <p>
