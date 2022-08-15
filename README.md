@@ -16,19 +16,7 @@ Endpoints:
 
 
 
-<b>Examples:</b>
 
-<br>
-
-<p>
-	<summary>Searching for spacific title:</summary>
-<p>
-	
-	:3000/jobs?title=python
-	
-</p>
-</p>
-<br>
 <p>
 POST requests parameters:
 </p>
@@ -94,5 +82,18 @@ PUT request parameters (user can edit their jobs only):
 title
 <br>
 desctiprion
+</p>
+</p>
+<br>
+<b>Examples:</b>
+
+<br>
+
+<p>
+	<summary>Searching for spacific title:</summary>
+<p>
+	
+	:3000/jobs?title=python
+	
 </p>
 </p>
