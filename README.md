@@ -1,6 +1,6 @@
 # README
 
-<b>api Endpoints: </b>
+<b>API Endpoints: </b>
 
 | Name | Method | description |
 | :---         |     :---:      |          ---: |
