@@ -16,7 +16,8 @@ Endpoints:
 
 
 
-Examples:
+<summary>Examples:</summary>
+
 
 <p>
 Searching for spacific title:
@@ -89,7 +90,8 @@ description
 	
 
 <p>
-PUT `/jobs/:id` request example (user ccar edit their jobs only):
+<br>
+PUT `/jobs/:id` request parameters (user can edit their jobs only):
 
 <p>
 title
