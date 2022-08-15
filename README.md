@@ -1,6 +1,6 @@
 # README
 
-Endpoints: 
+<b>api Endpoints: </b>
 
 | Name | Method | description |
 | :---         |     :---:      |          ---: |
@@ -14,11 +14,9 @@ Endpoints:
 | `/jobs/:id`     | DELETE       | Delete a job      |
 | `/jobs/:id/jobapps`     | GET       | Get a job apps      |
 
-
-
-
+<br>
 <p>
-POST requests parameters:
+	<b>POST requests parameters:</b>
 </p>
 <p>
 	
@@ -43,8 +41,9 @@ POST requests parameters:
 </p>
 <p>
 <br>
-<b>Examples:</b>
-
+<p>
+	<b>Examples:</b>
+</p>
 <br>
 
 <p>
