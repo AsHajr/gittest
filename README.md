@@ -13,7 +13,6 @@ Endpoints:
 | `/jobs/:id`     | PUT       | Update a job      |
 | `/jobs/:id`     | DELETE       | Delete a job      |
 | `/jobs/:id/jobapps`     | GET       | Get a job apps      |
-| `git diff` | Show file differences that **haven't been** staged |
 
 
 
@@ -36,11 +35,11 @@ POST requests parameters:
 
 <p>
 `name`
-<br>
+	<br>
 `email`
-<br>
+	<br>
 `password`
-<br>
+	<br>
 `password_confirmation`
 
 </p>
