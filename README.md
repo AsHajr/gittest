@@ -19,11 +19,14 @@ Endpoints:
 
 Examples:
 
-<p>Searching for spacific title:
-`http://127.0.0.1:3000/jobs?title=python`</p>
+<p>
+Searching for spacific title:
+`http://127.0.0.1:3000/jobs?title=python`
+</p>
 
 
-<p>POST requests parameters examples:
+<p>
+POST requests parameters examples:
 </p>
 <p>
 `/signup`
@@ -74,7 +77,7 @@ response:
 "created_by": "1"
 }
 ```
-	</p>
+</p>
 	
 
 <p>
