@@ -16,9 +16,8 @@ Endpoints:
 
 
 
-<details>Examples:</details>
+<b>Examples:</b>
 
-<br>
 <br>
 <br>
 
@@ -96,8 +95,8 @@ description
 <br>
 <br>
 <br>
-PUT <p>`/jobs/:id` </p> request parameters (user can edit their jobs only):
-
+PUT request parameters (user can edit their jobs only):
+`/jobs/:id` 
 <p>
 title
 <br>
