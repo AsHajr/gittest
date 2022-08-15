@@ -72,22 +72,15 @@ password
 title
 <br>
 description
-
-
 </p>
-
 </p>
 <br>
 <p>
-
 	/jobs/:id/jobapps
-
 <p>
 	created_by
 </p>
 </p>
-	
-<br>
 <p>
 <br>
 PUT request parameters (user can edit their jobs only):
