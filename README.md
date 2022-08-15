@@ -29,7 +29,6 @@ Endpoints:
 </p>
 </p>
 <br>
-<br>
 <p>
 POST requests parameters:
 </p>
@@ -62,13 +61,9 @@ password
 
 	response:
 
-{
-<br>
+
 "auth_token": "eyJhbGciOiJIU...5EgBXw0wvo"
-<br>
-}
 </p>
-<br>
 <p>
 	
 	/jobs
