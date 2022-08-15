@@ -1,19 +1,19 @@
 # README
 
 <b>API Endpoints: </b>
-
-| Name | Method | description |
-| :---         |     :---:      |        :---:   |
-| `/signup`   | POST    | Signup    |
-| `/auth/login`     | POST       | Login      |
-| `/auth/logout`     | GET       | Logout      |
-| `/jobs`     | GET       | List all jobs      |
-| `/jobs`     | POST       | Create a new job      |
-| `/jobs/:id`     | GET       | Get a job      |
-| `/jobs/:id`     | PUT       | Update a job      |
-| `/jobs/:id`     | DELETE       | Delete a job      |
-| `/jobs/:id/jobapps`     | GET       | Get a job apps      |
-
+<p>
+	| Name | Method | description |
+	| :---         |     :---:      |        :---:   |
+	| `/signup`   | POST    | Signup    |
+	| `/auth/login`     | POST       | Login      |
+	| `/auth/logout`     | GET       | Logout      |
+	| `/jobs`     | GET       | List all jobs      |
+	| `/jobs`     | POST       | Create a new job      |
+	| `/jobs/:id`     | GET       | Get a job      |
+	| `/jobs/:id`     | PUT       | Update a job      |
+	| `/jobs/:id`     | DELETE       | Delete a job      |
+	| `/jobs/:id/jobapps`     | GET       | Get a job apps      |
+<p>
 <br>
 <p>
 	<b>POST requests parameters:</b>
