@@ -21,7 +21,9 @@ Examples:
 <p>
 Searching for spacific title:
 <p>
-`127.0.0.1:3000/jobs?title=python`
+	
+`:3000/jobs?title=python`
+	
 </p>
 </p>
 
@@ -35,11 +37,11 @@ POST requests parameters:
 
 <p>
 name
-	<br>
+<br>
 email
-	<br>
+<br>
 password
-	<br>
+<br>
 password_confirmation
 
 </p>
@@ -51,29 +53,29 @@ password_confirmation
 
 <p>
 email
-		<br>
+<br>
 password
-	<br>
-	</p>
+<br>
+</p>
 
 response:
 
 {
 <br>
-	"auth_token": "eyJhbGciOiJIU...5EgBXw0wvo"
-	<br>
-	}
+"auth_token": "eyJhbGciOiJIU...5EgBXw0wvo"
+<br>
+}
 </p>
 <p>
 
 `/jobs`
 
-	<p>
+<p>
 title
-	<br>
+<br>
 description
-	<br>
-	</p>
+<br>
+</p>
 
 </p>
 <p>
@@ -82,18 +84,16 @@ description
 
 <p>
 	created_by
-	</p>
-
+</p>
 </p>
 	
 
 <p>
 PUT `/jobs/:id` request example (user ccar edit their jobs only):
 
-	<p>
+<p>
 title
-		<br>
+<br>
 desctiprion
-	</p>
-
+</p>
 </p>
