@@ -29,11 +29,12 @@ POST requests parameters:
 
 	/auth/login : email, password
 
-</p>
+
 	response:
 
-
-"auth_token": "eyJhbGciOiJIU...5EgBXw0wvo"
+	"auth_token": "eyJhbGciOiJIU...5EgBXw0wvo"
+	
+</p>
 </p>
 <p>
 	
