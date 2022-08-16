@@ -6,7 +6,7 @@
 <summary><b>sqlite3 file:</b></summary>
 <br>
 <br>
-<summary>Here is a brief decumentation</summary>
+<summary><b>Here is a brief decumentation</b></summary>
 <br>
 <p>
 	<b>POST requests parameters:</b>
