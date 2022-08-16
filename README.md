@@ -3,7 +3,8 @@
 
 <summary><b>Dcumentations are in the doc folder</b></summary>
 <br>
-<b>sqlite3 file:</b> 
+<summary><b>sqlite3 file:</b></summary>
+<br>
 <br>
 <summary>Here is a brief decumentation</summary>
 <br>
