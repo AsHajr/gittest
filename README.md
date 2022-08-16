@@ -1,5 +1,8 @@
 # README
 
+
+<summary>Dcumentations are in the doc file !</sumary>
+
 <b>API Endpoints: </b>
 | Name | Method | description |
 | :---         |     :---:      |        :---:   |
