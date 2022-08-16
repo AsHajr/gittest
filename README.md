@@ -1,8 +1,10 @@
 # README
 
 
-<summary><b>Dcumentations are in the doc folder !</b></sumary>
-
+<summary><b>Dcumentations are in the doc folder</b></sumary>
+<br>
+SQlite3 file: 
+<br>
 <summary>Here is a brief decumentation</summary>
 <br>
 <p>
@@ -30,11 +32,9 @@
 	
 </p>
 <p>
+
 <p>
-	<b>Examples:</b>
-</p>
-<p>
-	<summary>Searching for spacific title:</summary>
+	<b>Searching for spacific title:</b>
 <p>
 	
 	localhost:3000/jobs?title=python
