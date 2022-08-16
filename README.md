@@ -1,9 +1,9 @@
 # README
 
 
-<summary><b>Dcumentations are in the doc folder</b></sumary>
+<summary><b>Dcumentations are in the doc folder</b></summary>
 <br>
-SQlite3 file: 
+<b>sqlite3 file:</b> 
 <br>
 <summary>Here is a brief decumentation</summary>
 <br>
