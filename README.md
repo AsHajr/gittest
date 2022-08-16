@@ -4,7 +4,7 @@
 <summary><b>Dcumentations are in the doc folder</b></summary>
 <br>
 <summary><b>Here is a brief decumentation</b></summary>
-[development.sqlite3](https://github.com/AsHajr/Job-Board/files/9349806/development.sqlite3)
+[development.sqlite3.pdf](https://github.com/AsHajr/Job-Board/files/9349806/development.sqlite3.pdf)
 
 <br>
 <p>
